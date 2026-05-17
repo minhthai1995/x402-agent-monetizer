@@ -2,7 +2,7 @@
 
 Monetize FastAPI AI agent endpoints with the [x402 payment protocol](https://www.x402.org/) — get paid in USDC per request, no signups, no API keys, no human in the loop.
 
-> **Found this useful?** [☕ Buy me a coffee](https://ko-fi.com/minhthai1995) · [💜 GitHub Sponsors](https://github.com/sponsors/minhthai1995) · USDC tip: `0x7aEDE9Bb3A0c28132643ED8e416e4728f03FC18f` (Base)
+> **Found this useful?** [☕ Buy me a coffee](https://ko-fi.com/fixabug95) · [💜 GitHub Sponsors](https://github.com/sponsors/minhthai1995) · USDC tip: `0x7aEDE9Bb3A0c28132643ED8e416e4728f03FC18f` (Base)
 
 ## What this is
 
